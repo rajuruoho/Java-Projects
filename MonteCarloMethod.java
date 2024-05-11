@@ -1,4 +1,3 @@
-package ohjelmointiDemot;
 import java.util.Random;
 
 /**
